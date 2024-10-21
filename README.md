@@ -11,8 +11,6 @@ Bu proje, Laravel framework kullanılarak geliştirilmiş bir e-ticaret web uygu
 
 
 
-![image](https://github.com/user-attachments/assets/6d2ef0a4-0e5a-4f70-b25a-2c3906113b36)
- 
-![image](https://github.com/user-attachments/assets/de5d09f5-bd2f-470e-842a-cde74872be06)
-![image](https://github.com/user-attachments/assets/0bcf93ec-d74f-47c3-bb0a-1cb07f50f816)
+![image](https://github.com/user-attachments/assets/6d2ef0a4-0e5a-4f70-b25a-2c3906113b36) ![image](https://github.com/user-attachments/assets/99f8ba2e-f8b5-4637-af2c-0759a1bc5ae7)
+![image](https://github.com/user-attachments/assets/de5d09f5-bd2f-470e-842a-cde74872be06) ![image](https://github.com/user-attachments/assets/0bcf93ec-d74f-47c3-bb0a-1cb07f50f816)
 ![image](https://github.com/user-attachments/assets/9724cd9a-baf0-4b79-9067-8a5d0a339fa1)
